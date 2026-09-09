@@ -16,7 +16,7 @@ AI assistant. Razorpay for billing.
 Everything in the UI reads/writes through `@/lib/queries` →
 `src/lib/api/contract.ts` (the `RaagApi` interface) → one of three
 adapters selected by `VITE_API_MODE`: `mock` (in-memory demo, no backend
-needed), `supabase` (real, persisted — what's actually deployed), `http`
+needed), `supabase` (real, persisted - what's actually deployed), `http`
 (unused stub for a hypothetical non-Supabase backend).
 
 ## Development
@@ -25,7 +25,7 @@ Requires Node.js 20+.
 
 ```sh
 npm install
-npm run dev      # defaults to mock mode — in-memory demo data, no backend needed
+npm run dev      # defaults to mock mode - in-memory demo data, no backend needed
 ```
 
 ## Scripts
