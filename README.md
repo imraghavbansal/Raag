@@ -28,17 +28,6 @@ npm install
 npm run dev      # defaults to mock mode - in-memory demo data, no backend needed
 ```
 
-## Scripts
-
-- `npm run dev` - start the dev server
-- `npm run build` - production build
-- `npm run preview` - preview a production build locally
-- `npm run lint` - lint
-- `npm run format` - format with Prettier
-- `npm run verify:supabase` / `verify:functions` - regression checks against
-  the live Supabase project (schema, RLS isolation, Edge Functions);
-  re-run after any backend change. See `scripts/` for more targeted checks.
-
 ## Backend
 
 Real, not a demo - schema and RLS policies in `supabase/migrations/`
