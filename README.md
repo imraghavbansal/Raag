@@ -30,6 +30,4 @@ npm run dev      # defaults to mock mode - in-memory demo data, no backend neede
 
 ## Backend
 
-Real, not a demo - schema and RLS policies in `supabase/migrations/`
-(numbered, applied in order via the Supabase SQL Editor), server-side logic
-in `supabase/functions/` (deployed via the Supabase dashboard). 
+Real, not a demo  
