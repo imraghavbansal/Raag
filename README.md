@@ -28,6 +28,4 @@ npm install
 npm run dev      # defaults to mock mode - in-memory demo data, no backend needed
 ```
 
-## Backend
 
-Real, not a demo  
