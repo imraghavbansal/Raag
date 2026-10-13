@@ -25,7 +25,7 @@ Requires Node.js 20+.
 
 ```sh
 npm install
-npm run dev      # defaults to mock mode - in-memory demo data, no backend needed
+npm run dev     
 ```
 
 
