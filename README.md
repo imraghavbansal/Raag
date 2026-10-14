@@ -20,12 +20,6 @@ needed), `supabase` (real, persisted - what's actually deployed), `http`
 (unused stub for a hypothetical non-Supabase backend).
 
 ## Development
-
 Requires Node.js 20+.
-
-```sh
-npm install
-npm run dev     
-```
 
 
