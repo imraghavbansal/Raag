@@ -19,7 +19,7 @@ adapters selected by `VITE_API_MODE`: `mock` (in-memory demo, no backend
 needed), `supabase` (real, persisted - what's actually deployed), `http`
 (unused stub for a hypothetical non-Supabase backend).
 
-### Backend
+
 
 
 
